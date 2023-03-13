@@ -21,7 +21,7 @@ OWNER_ID = list(map(int, getenv("OWNER_ID", "1356469075").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Protricks/Repo-GIF/blob/main/f25fcfa06a53073e241c4.mp4?raw=true")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://i.postimg.cc/Df5ygjJn/20230313-195344.jpg")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
